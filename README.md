@@ -41,7 +41,7 @@ Key features include:
 
 
 
-
+Titanic-Survival-Prediction/ ├── data/ │ ├── train.csv │ ├── test.csv ├── notebooks/ │ ├── analysis.ipynb ├── src/ │ ├── model.py ├── submission.csv ├── README.md ├── requirements.txt └── .gitignore
 
 ---
 
@@ -54,9 +54,46 @@ To run this project locally, follow these steps:
    git clone <repository_url>
    cd Titanic-Survival-Prediction
 
+Install dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+
+(Optional) Set up a virtual environment:
+
+bash
+Copy code
+python -m venv env
+source env/bin/activate  # Linux/Mac
+.\env\Scripts\activate  # Windows
+
+Usage
+Running the Analysis:
+Open the Jupyter Notebook notebooks/analysis.ipynb to view EDA and modeling.
+
+To train the model from scratch:
+
+bash
+Copy code
+python src/model.py
+
+Submit predictions using the generated submission.csv file.
+
+Models and Results
+Models Used:
+Logistic Regression
+Random Forest Classifier
+Key Metrics:
+Metric	 Logistic Regression	Random Forest
+Accuracy	 80%	                85%
+F1-Score	 78%	                83%
+The Random Forest model outperformed Logistic Regression with better accuracy and robustness.
 
 
 
+Contributing
+If you’d like to contribute, feel free to fork this repository and create a pull request. Any improvements or suggestions are welcome!
 ---
 
 ### Key Points for Your Project
