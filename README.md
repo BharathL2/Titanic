@@ -18,6 +18,17 @@ To run this project locally, ensure you have the following installed:
 2. Required Python libraries (listed in the `requirements.txt`):
    ```bash
    pip install -r requirements.txt
+Titanic-Survival-Prediction/
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+├── notebooks/
+│   ├── analysis.ipynb
+├── src/
+│   ├── model.py
+├── submission.csv
+├── README.md
+├── requirements.txt
+└── .gitignore
 
-!(assets/Screenshot(56).png)
 
