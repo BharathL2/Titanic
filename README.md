@@ -43,6 +43,43 @@ Key features include:
 
 Titanic-Survival-Prediction/ ├── data/ │ ├── train.csv │ ├── test.csv ├── notebooks/ │ ├── analysis.ipynb ├── src/ │ ├── model.py ├── submission.csv ├── README.md ├── requirements.txt └── .gitignore
 
+
+---
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd Titanic-Survival-Prediction
+Install dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Set up the virtual environment:
+
+For Linux/Mac:
+
+bash
+Copy code
+python -m venv env
+source env/bin/activate
+For Windows:
+
+bash
+Copy code
+python -m venv env
+.\env\Scripts\activate
+Run the model:
+
+bash
+Copy code
+python src/model.py
+
+
 ---
 
 
