@@ -54,31 +54,22 @@ To run this project locally, follow these steps:
    git clone <repository_url>
    cd Titanic-Survival-Prediction
 
-Install dependencies:
+## Installation
 
-bash
-Copy code
+### Install dependencies:
+```bash
 pip install -r requirements.txt
-
-(Optional) Set up a virtual environment:
-
-bash
-Copy code
+# For Linux/Mac:
 python -m venv env
-source env/bin/activate  # Linux/Mac
-.\env\Scripts\activate  # Windows
+source env/bin/activate
 
-Usage
-Running the Analysis:
-Open the Jupyter Notebook notebooks/analysis.ipynb to view EDA and modeling.
-
-To train the model from scratch:
-
-bash
-Copy code
+# For Windows:
+python -m venv env
+.\env\Scripts\activate
 python src/model.py
 
-Submit predictions using the generated submission.csv file.
+This snippet is ready to be added to your `README.md` file. Let me know if you need further customization!
+
 
 ## Models and Results
 
