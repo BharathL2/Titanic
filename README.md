@@ -18,3 +18,6 @@ To run this project locally, ensure you have the following installed:
 2. Required Python libraries (listed in the `requirements.txt`):
    ```bash
    pip install -r requirements.txt
+
+## Screenshots/Demos:  
+![EDA Example](Screenshot (56).png)
