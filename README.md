@@ -80,15 +80,21 @@ python src/model.py
 
 Submit predictions using the generated submission.csv file.
 
-Models and Results
-Models Used:
-Logistic Regression
-Random Forest Classifier
-Key Metrics:
-Metric	 Logistic Regression	Random Forest
-Accuracy	 80%	                85%
-F1-Score	 78%	                83%
+## Models and Results
+
+### Models Used:
+- Logistic Regression
+- Random Forest Classifier
+
+### Key Metrics:
+
+| Metric      | Logistic Regression | Random Forest |
+|-------------|----------------------|---------------|
+| Accuracy    | 80%                 | 85%           |
+| F1-Score    | 78%                 | 83%           |
+
 The Random Forest model outperformed Logistic Regression with better accuracy and robustness.
+
 
 
 
