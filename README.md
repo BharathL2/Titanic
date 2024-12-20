@@ -45,32 +45,7 @@ Titanic-Survival-Prediction/ ├── data/ │ ├── train.csv │ ├─�
 
 ---
 
-## Installation
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd Titanic-Survival-Prediction
-
-## Installation
-
-### Install dependencies:
-```bash
-pip install -r requirements.txt
-# For Linux/Mac:
-python -m venv env
-source env/bin/activate
-
-# For Windows:
-python -m venv env
-.\env\Scripts\activate
-python src/model.py
-
-This snippet is ready to be added to your `README.md` file. Let me know if you need further customization
-
---- 
 
 ## Models and Results
 
