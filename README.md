@@ -19,5 +19,5 @@ To run this project locally, ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
 
-## Screenshots/Demos:  
-![EDA Example](Screenshot (56).png)
+![Project Screenshot](assets/Screenshot(56).png)
+
