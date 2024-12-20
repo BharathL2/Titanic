@@ -68,20 +68,20 @@ python -m venv env
 .\env\Scripts\activate
 python src/model.py
 
-This snippet is ready to be added to your `README.md` file. Let me know if you need further customization!
+This snippet is ready to be added to your `README.md` file. Let me know if you need further customization
 
 --- 
+
 ## Models and Results
 
 ### Models Used:
 - Logistic Regression
 - Random Forest Classifier
 
-```bash
 Logistic Regression
 Random Forest Classifier
 
-```bash
+
 
 ### Key Metrics:
 
