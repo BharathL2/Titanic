@@ -70,7 +70,7 @@ python src/model.py
 
 This snippet is ready to be added to your `README.md` file. Let me know if you need further customization!
 
-
+--- 
 ## Models and Results
 
 ### Models Used:
@@ -81,6 +81,7 @@ This snippet is ready to be added to your `README.md` file. Let me know if you n
 Logistic Regression
 Random Forest Classifier
 
+```bash
 
 ### Key Metrics:
 
@@ -91,7 +92,7 @@ Random Forest Classifier
 
 The Random Forest model outperformed Logistic Regression with better accuracy and robustness.
 
-
+---
 
 
 Contributing
