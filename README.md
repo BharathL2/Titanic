@@ -40,9 +40,18 @@ Key features include:
 ## Project Structure
 
 
-
-Titanic-Survival-Prediction/ ├── data/ │ ├── train.csv │ ├── test.csv ├── notebooks/ │ ├── analysis.ipynb ├── src/ │ ├── model.py ├── submission.csv ├── README.md ├── requirements.txt └── .gitignore
-
+Movie-Rating-Prediction
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+├── notebooks/
+│   ├── analysis.ipynb
+├── src/
+│   ├── model.py
+├── submission.csv
+├── README.md
+├── requirements.txt
+└── .gitignore
 
 ---
 
