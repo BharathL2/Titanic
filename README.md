@@ -39,3 +39,29 @@ Key features include:
 
 ## Project Structure
 
+
+
+
+
+---
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd Titanic-Survival-Prediction
+
+
+
+
+---
+
+### Key Points for Your Project
+- Modify the metrics and models based on your actual results.
+- Include any unique insights or features you've added (e.g., custom feature engineering).
+- If your code is structured differently, update the project structure section accordingly.
+
+Let me know if you’d like help customizing this template further!
